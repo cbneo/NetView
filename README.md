@@ -1,6 +1,6 @@
 <p align="left">
     <picture>
-        <img src="https://github.com/ToniCroatian/YuoToob/blob/main/img/logo.gif" alt="YuoToob">
+        <img src="https://github.com/cbneo/NetView/blob/main/img/logo.gif" alt="YuoToob">
     </picture>
 </p>
 
