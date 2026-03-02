@@ -22,4 +22,3 @@ known bugs:
 - thumbs generation
 
 that's all folks
-join to netview.duckdns.org
